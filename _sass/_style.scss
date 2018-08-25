@@ -2500,28 +2500,27 @@ body {
     height: auto;
   }
   .header-back {
-    height: 470px;
+    height: 760px;
     width: 100%;
     background-position: 50% 0;
     background-repeat:  no-repeat;
   }
   .carousel {
-    height: 470px;
+    height: 760px;
   }
   .carousel-caption {
     z-index: 10;
   }
   .carousel .item {
-    height: 470px;
+    height: 760px;
     background-color: #777;
-    object-fit: fill;
   }
   .carousel-inner > .item > img {
     position: absolute;
     top: 0;
     left: 0;
     min-width: 100%;
-    height: 470px;
+    height: 760px;
   }
   .carousel-fade {
     .carousel-inner {
