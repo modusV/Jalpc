@@ -2514,6 +2514,7 @@ body {
   .carousel .item {
     height: 470px;
     background-color: #777;
+    object-fit: fill;
   }
   .carousel-inner > .item > img {
     position: absolute;
