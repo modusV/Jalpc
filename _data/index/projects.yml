@@ -1,22 +1,42 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Jalpc
+- name: ScotlandyArm
   i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
+  gh_user: modusV
+  repo: scotlandyARM
   img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+  desc: Project developed in ARM assembly on LandTiger board at Polithecnic of Turin
 
-- name: Python
+- name: All Hands Hoay
   i18n: cpython
-  gh_user: python
-  repo: cpython
+  gh_user: modusV
+  repo: BusManagementWebApp
   img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
+  desc: Bus travels web application developed in PHP, Js and HTML
 
-- name: Google
-  i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/google.png
-  desc: This is another project.
+- name: Book It Up
+  i18n: cpython
+  gh_user: modusV
+  repo: BookItUp
+  img: /static/assets/img/landing/book_it_up.png
+  desc: Android book sharing application
+
+- name: TransferMe
+  i18n: cpython
+  gh_user: modusV
+  repo: Client_Server_FileTrasfer
+  img: /static/assets/img/landing/python.png
+  desc: Client server multiple file transfer written in C
+
+
+
+
+
+# this is for websites
+
+#- name: Google
+#  i18n: google
+#  url: https://google.com
+#  img: /static/assets/img/landing/google.png
+#  desc: This is another project.
