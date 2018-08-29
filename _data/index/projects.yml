@@ -5,14 +5,14 @@
   i18n: jalpc
   gh_user: modusV
   repo: scotlandyARM
-  img: /static/assets/img/landing/jekyll.png
+  img: /static/assets/img/landing/vader.png
   desc: Project developed in ARM assembly on LandTiger board at Polithecnic of Turin
 
 - name: All Hands Hoay
   i18n: cpython
   gh_user: modusV
   repo: BusManagementWebApp
-  img: /static/assets/img/landing/python.png
+  img: /static/assets/img/landing/bus-stop.png
   desc: Bus travels web application developed in PHP, Js and HTML
 
 - name: Book It Up
@@ -26,7 +26,7 @@
   i18n: cpython
   gh_user: modusV
   repo: Client_Server_FileTrasfer
-  img: /static/assets/img/landing/python.png
+  img: /static/assets/img/landing/responsive.png
   desc: Client server multiple file transfer written in C
 
 
