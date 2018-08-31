@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: GitHub, Motivation, Python, PHP, Javascript, C, Java
-percentage: 70, 100, 60, 70, 60, 90, 90
+aspects: Kotlin, Python, PHP, Javascript, C, Java
+percentage: 60, 70, 80, 60, 90, 90
