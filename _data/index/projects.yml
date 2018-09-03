@@ -1,6 +1,20 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: Novis
+  i18n: cpython
+  gh_user:
+  repo:
+  img: /static/assets/img/landing/novis.png
+  desc: Software and hardware solutions for visually impaired people, started during the Inventor bootcamp
+
+- name: Eudossia
+  i18n: cpython
+  gh_user:
+  repo:
+  img: /static/assets/img/landing/eudossia.png
+  desc: Student feedback management system developed durin EIA 2018. Chatbot developed with Tensorflow, Chatfuel, Firebase backend in Node.js
+
 - name: ScotlandyArm
   i18n: jalpc
   gh_user: modusV
@@ -28,9 +42,6 @@
   repo: Client_Server_FileTrasfer
   img: /static/assets/img/landing/responsive.png
   desc: Client server multiple file transfer written in C
-
-
-
 
 
 # this is for websites
