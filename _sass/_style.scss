@@ -2504,6 +2504,7 @@ body {
     width: 100%;
     background-position: 50% 0;
     background-repeat:  no-repeat;
+    background-size: cover;
   }
   .carousel {
     height: auto;
@@ -2512,8 +2513,8 @@ body {
     z-index: 10;
   }
   .carousel .item {
-    height: auto;
-    background-size: cover;
+    height: 100vh;
+    box-sizing: border-box;
     background-color: #777;
   }
   /*
