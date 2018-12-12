@@ -14,7 +14,7 @@ author:  # change following line to your infomation.
   name: Lorenzo Santolini  # Be used at blog posts' author.
   first_name: Lorenzo  # Be used at index page about me section.
   last_name: Santolini  # Be used at index page about me section.
-  avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
+  avatar: /static/assets/img/landing/me.png  # upload your avatar at directory and edit it.
   github_username: modusV  # Leave blank if you don't have now
   linkedin_id: lorenzo-santolini # Leave blank if you don't have now
   facebook_username: lorenzo.santolini.1  # Leave blank if you don't have now
@@ -29,7 +29,7 @@ author:  # change following line to your infomation.
     - name: icon-c
     - name: icon-java
   desc:   # Describe yourself.
-    Developer, Dreamer entrepreneur, Innovation freak
+    Computer Engineering student with crucial interest for technology. Currently working at Novis and increasing my knowledge.
 
 # comment
 # disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.

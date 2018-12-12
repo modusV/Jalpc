@@ -5,8 +5,7 @@
     detail: European Innovation Academy
     i18n: company_a
   desc:
-    detail: I got a Scholarship awarded by Polythecnic of Turin to take part of one of the largest Entrepreneurship programs in the world, in which me and a multicultural team of five people developed a startup project in 21 days.
-    i18n: company_a_desc
+    detail: I won a scholarship from my university to which allowed me to participate to the world’s largest accelerator with 320 high-achieving students from +60 countries, switching from an idea to a start-up in 15 working days. I covered the role of Chief Executive Officer of Eudossia, a startup aiming at bridging the existent gap between students and universities by providing the student body with an intelligent buddy chatbot they can refer to.
   date:
     detail: June. 2018
     i18n: company_a_date
@@ -33,7 +32,7 @@
     detail: School Of Entrepreneurship (SEI)
     i18n: company_a
   desc:
-    detail: Inventor Module, 10 days bootcamp about making and innovation
+    detail: Project manager and software developer of NovisLab, a project born during School of Entrepreneurship's Inventor program. We develop innovative gaming solutions for blind and visually impaired people.
     i18n: company_a_desc
   date:
     detail: Feb. 2017
@@ -71,6 +70,19 @@
     i18n: company_a_job
   icon: fa-plus-square
 
+- name:
+    detail: Barrenjoy High School
+    i18n: company_b
+  desc:
+    detail: I have been living in Sydney, Australia for six months during a student exchange program.
+    i18n: company_b_desc
+  date:
+    detail: Jun. 2013 - Dec. 2013
+    i18n: company_b_date
+  job:
+    detail: Student Exchange
+    i18n: company_b_job
+  icon: fa-plus-square
 
 - name:
     detail: Scientific Liceo Valsalice
